@@ -1,1 +1,1 @@
-Códigos desenvolvidos em torno do Curso em Vídeo
+Curso em Vídeo - Exercícios
