@@ -24,4 +24,5 @@ else:
     saldo = idade - 18
     antigo = anoatual - saldo
     print(f"Seu alistamento está atrasado há muito tempo, \033[31m{saldo}\033[m anos / \033[31m{antigo}\033[m")
+
 #saldo = 18 - idade / idade - 18
