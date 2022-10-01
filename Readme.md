@@ -1,1 +1,1 @@
-Olá esse projeto ensina você a usar o GIT
+Códigos desenvolvidos em torno do Curso em Vídeo
