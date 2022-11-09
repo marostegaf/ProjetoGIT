@@ -19,5 +19,4 @@ print(f"\nO menor valor foi: {valoresreais[0]} e está nas posições: ", end=""
 for i, v in enumerate(valores):
     if v == valoresreais[0]:
         print(f"{i}", end="")
- 
  # MAIOR E MENOR VALOR, SE HOUVER DOIS NÚMEROS IGUAIS MOSTRAR AS POSIÇÕES TAMBÉM!
