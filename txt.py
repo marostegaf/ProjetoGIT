@@ -17,7 +17,7 @@ Se o arquivo não existir ele vai criar e se o arquivo já existir ele vai subst
 with open("valores.txt", "a") as arquivo:
     arquivo.write("Mensagem" + "\n") 
 
-Irá fazer a mesma coisa que o de cime porém ele irá adicionar ao final do arquivo
+Irá fazer a mesma coisa que o de cima porém ele irá adicionar ao final do arquivo
 e não irá substituir
 '''
 
